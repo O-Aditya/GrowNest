@@ -16,6 +16,7 @@ object DatabaseHelper {
                 ).build()
             }
         }
+
         return instance!!
     }
 }

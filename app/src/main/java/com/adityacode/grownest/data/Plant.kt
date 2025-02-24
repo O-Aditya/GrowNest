@@ -12,4 +12,5 @@ data class Plant(
     val wateringFrequency: Int, // Days
     val notes: String,
     val imageUri: String? // Local file path or URI
+
 )

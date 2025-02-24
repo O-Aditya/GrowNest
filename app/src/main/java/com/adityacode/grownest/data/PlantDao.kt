@@ -14,6 +14,7 @@ interface PlantDao {
     @Update
     suspend fun update(plant: Plant)
 
+
     @Query("SELECT * FROM plants")
     fun getAllPlants(): LiveData<List<Plant>>
 }

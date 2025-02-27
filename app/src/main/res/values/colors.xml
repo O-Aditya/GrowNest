@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Primary brand colors -->
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorSecondary">#81C784</color>
+    <color name="colorAccent">#4CAF50</color>
+    
+    <!-- Surface colors -->
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorBackground">#F5F5F5</color>
+    
+    <!-- Text colors -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnSurface">#333333</color>
+    
+    <!-- Additional theme colors -->
+    <color name="accent_teal">#009688</color>
+    <color name="primary_green">#4CAF50</color>
+    <color name="secondary_green">#8BC34A</color>
+    <color name="earth_brown">#795548</color>
+    <color name="light_green">#C8E6C9</color>
+    <color name="seed">#4CAF50</color>
+    <color name="md_theme_light_primary">#146E2C</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#9CF6A4</color>
+    <color name="md_theme_light_onPrimaryContainer">#002106</color>
+    <color name="md_theme_light_secondary">#516351</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D4E8D2</color>
+    <color name="md_theme_light_onSecondaryContainer">#0F1F11</color>
+    <color name="md_theme_light_surface">#FCFDF7</color>
+    <color name="md_theme_light_onSurface">#191C19</color>
+    <color name="md_theme_light_surfaceVariant">#DDE5DB</color>
+    <color name="md_theme_light_onSurfaceVariant">#414941</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FCFDF7</color>
+    <color name="md_theme_light_onBackground">#191C19</color>
+    
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_container">#FFDBB2FF</color>
+    <color name="on_primary_container">#FF371E73</color>
+    
+    <color name="secondary">#FF03DAC5</color>
+    <color name="secondary_container">#FFB3F1EA</color>
+    <color name="on_secondary_container">#FF00504A</color>
+    
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_surface">#FF1C1B1F</color>
+    <color name="surface_variant">#FFE7E0EC</color>
+    <color name="on_surface_variant">#FF49454F</color>
+    
+    <color name="error">#FFB3261E</color>
+    <color name="on_error">#FFFFFFFF</color>
+    
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <!-- Add these missing colors -->
+    <color name="error_container">#FFDAD6</color>
+    <color name="on_error_container">#410002</color>
+    <color name="background">#FCFDF7</color>
+    <color name="on_background">#191C19</color>
+    
+    <color name="refresh_progress_1">#4CAF50</color>
+    <color name="refresh_progress_2">#8BC34A</color>
+    <color name="refresh_progress_3">#CDDC39</color>
+    
+    <color name="shimmer_color">#DDDDDD</color>
 </resources>

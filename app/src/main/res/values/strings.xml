@@ -1,3 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">GrowNest</string>
+    <string name="title_home">Home</string>
+    <string name="title_add_plant">Add Plant</string>
+    <string name="title_community">Community</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="plant_species">Species</string>
+    <string name="watering_frequency">Watering Frequency (days)</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="add_image">Add Image</string>
+    <string name="community">Community</string>
+    <string name="check_health">Check Health</string>
+    <string name="water_reminder">Time to water %1$s!</string>
+    <string name="days_until_water">Water in %1$d days</string>
+    <string name="overdue_watering">Watering overdue by %1$d days</string>
+    <string name="add_plant">Add Plant</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_plant">Delete Plant</string>
+    <string name="delete_plant_confirmation">Are you sure you want to delete %1$s?</string>
+    <string name="watering_frequency_days">Water every %d days</string>
+    <string name="daily_tip">Today\'s Tip</string>
+    <string name="my_plants">My Plants</string>
+    <string name="add_post">Add Post</string>
+    <string name="new_post">New Post</string>
+    <string name="post">Post</string>
+    <string name="weather_info">Weather Info</string>
+    <string name="weather_temp">%d°C</string>
+    <string name="weather_desc">Perfect weather for your plants!</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="no_plants_yet">No Plants Yet</string>
+    <string name="add_your_first_plant">Add your first plant to start tracking</string>
+    <string name="search">Search</string>
 </resources>
